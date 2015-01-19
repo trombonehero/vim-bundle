@@ -19,3 +19,6 @@
 [submodule "bufkill.vim"]
 	path = bufkill.vim
 	url = https://github.com/vim-scripts/bufkill.vim.git
+[submodule "vim-ace"]
+	path = vim-ace
+	url = https://github.com/yosssi/vim-ace.git
