@@ -31,3 +31,6 @@
 [submodule "vim-fabrique"]
 	path = vim-fabrique
 	url = git@github.com:fabriquer/vim-fabrique
+[submodule "vim-json"]
+	path = vim-json
+	url = https://github.com/elzr/vim-json
