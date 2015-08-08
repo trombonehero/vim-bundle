@@ -30,7 +30,7 @@
 	url = https://github.com/fatih/vim-go
 [submodule "vim-fabrique"]
 	path = vim-fabrique
-	url = git@github.com:fabriquer/vim-fabrique
+	url = https://github.com/fabriquer/vim-fabrique
 [submodule "vim-json"]
 	path = vim-json
 	url = https://github.com/elzr/vim-json
