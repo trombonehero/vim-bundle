@@ -43,3 +43,6 @@
 [submodule "ctrlp"]
 	path = ctrlp
 	url = https://github.com/ctrlpvim/ctrlp.vim
+[submodule "avro-vim"]
+	path = avro-vim
+	url = https://github.com/dln/avro-vim
