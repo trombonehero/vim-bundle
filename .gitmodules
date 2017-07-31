@@ -46,3 +46,6 @@
 [submodule "avro-vim"]
 	path = avro-vim
 	url = https://github.com/dln/avro-vim
+[submodule "typescript-vim"]
+	path = typescript-vim
+	url = https://github.com/leafgarland/typescript-vim.git
