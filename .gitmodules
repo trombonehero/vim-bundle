@@ -58,3 +58,6 @@
 [submodule "csapprox"]
 	path = csapprox
 	url = https://github.com/godlygeek/csapprox
+[submodule "gruvbox"]
+	path = gruvbox
+	url = https://github.com/morhetz/gruvbox
