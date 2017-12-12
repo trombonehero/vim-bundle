@@ -52,3 +52,9 @@
 [submodule "vim-kernel-config"]
 	path = vim-kernel-config
 	url = https://github.com/mytoh/vim-kernel-config
+[submodule "badwolf"]
+	path = badwolf
+	url = https://github.com/sjl/badwolf
+[submodule "csapprox"]
+	path = csapprox
+	url = https://github.com/godlygeek/csapprox
