@@ -67,3 +67,6 @@
 [submodule "vim-cpp-enhanced-highlight"]
 	path = vim-cpp-enhanced-highlight
 	url = https://github.com/octol/vim-cpp-enhanced-highlight
+[submodule "vim-sneak"]
+	path = vim-sneak
+	url = https://github.com/justinmk/vim-sneak.git
