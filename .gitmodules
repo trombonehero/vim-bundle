@@ -31,9 +31,6 @@
 [submodule "vim-json"]
 	path = vim-json
 	url = https://github.com/elzr/vim-json
-[submodule "neocomplete.vim"]
-	path = neocomplete.vim
-	url = https://github.com/Shougo/neocomplete.vim.git
 [submodule "rust.vim"]
 	path = rust.vim
 	url = https://github.com/rust-lang/rust.vim
