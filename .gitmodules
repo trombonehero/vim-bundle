@@ -34,9 +34,6 @@
 [submodule "rust.vim"]
 	path = rust.vim
 	url = https://github.com/rust-lang/rust.vim
-[submodule "pony-vim-syntax"]
-	path = pony-vim-syntax
-	url = https://github.com/dleonard0/pony-vim-syntax
 [submodule "ctrlp"]
 	path = ctrlp
 	url = https://github.com/ctrlpvim/ctrlp.vim
