@@ -4,9 +4,6 @@
 [submodule "vim-fugitive"]
 	path = vim-fugitive
 	url = https://github.com/tpope/vim-fugitive
-[submodule "nerdtree"]
-	path = nerdtree
-	url = https://github.com/scrooloose/nerdtree.git
 [submodule "vim-gitgutter"]
 	path = vim-gitgutter
 	url = https://github.com/airblade/vim-gitgutter.git
