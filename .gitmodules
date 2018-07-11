@@ -76,3 +76,6 @@
 [submodule "vim-ohm"]
 	path = vim-ohm
 	url = https://github.com/nfischer/vim-ohm
+[submodule "vim-fontzoom"]
+	path = vim-fontzoom
+	url = https://github.com/thinca/vim-fontzoom
