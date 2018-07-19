@@ -76,3 +76,6 @@
 [submodule "vim-fontzoom"]
 	path = vim-fontzoom
 	url = https://github.com/thinca/vim-fontzoom
+[submodule "leg.vim"]
+	path = leg.vim
+	url = https://github.com/Qix-/leg.vim
