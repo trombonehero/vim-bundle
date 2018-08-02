@@ -76,3 +76,6 @@
 [submodule "leg.vim"]
 	path = leg.vim
 	url = https://github.com/Qix-/leg.vim
+[submodule "vim-cargo"]
+	path = vim-cargo
+	url = https://github.com/timonv/vim-cargo
