@@ -79,3 +79,6 @@
 [submodule "vim-cargo"]
 	path = vim-cargo
 	url = https://github.com/timonv/vim-cargo
+[submodule "vim-kdump"]
+	path = vim-kdump
+	url = https://github.com/trombonehero/vim-kdump
