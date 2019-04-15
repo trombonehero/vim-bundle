@@ -85,3 +85,9 @@
 [submodule "vim-kdump"]
 	path = vim-kdump
 	url = https://github.com/trombonehero/vim-kdump
+[submodule "llvm.vim"]
+	path = llvm.vim
+	url = https://github.com/Superbil/llvm.vim
+[submodule "vala.vim"]
+	path = vala.vim
+	url = https://github.com/arrufat/vala.vim.git
