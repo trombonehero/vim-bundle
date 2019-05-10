@@ -91,6 +91,9 @@
 [submodule "vim-kdump"]
 	path = vim-kdump
 	url = https://github.com/trombonehero/vim-kdump
+[submodule "vim-remarkjs"]
+	path = vim-remarkjs
+	url = https://github.com/idbrii/vim-remarkjs
 [submodule "llvm.vim"]
 	path = llvm.vim
 	url = https://github.com/Superbil/llvm.vim
