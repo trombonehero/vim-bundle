@@ -49,6 +49,9 @@
 [submodule "gruvbox"]
 	path = gruvbox
 	url = https://github.com/morhetz/gruvbox
+[submodule "plantuml-syntax"]
+	path = plantuml-syntax
+	url = https://github.com/aklt/plantuml-syntax
 [submodule "werewolf.vim"]
 	path = werewolf.vim
 	url = https://github.com/jonstoler/werewolf.vim
