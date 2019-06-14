@@ -91,3 +91,6 @@
 [submodule "vala.vim"]
 	path = vala.vim
 	url = https://github.com/arrufat/vala.vim.git
+[submodule "vim-latex"]
+	path = vim-latex
+	url = https://github.com/vim-latex/vim-latex
