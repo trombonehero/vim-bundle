@@ -103,3 +103,6 @@
 [submodule "csv.vim"]
 	path = csv.vim
 	url = https://github.com/chrisbra/csv.vim
+[submodule "vim-enaml"]
+	path = vim-enaml
+	url = https://github.com/johntyree/vim-enaml
