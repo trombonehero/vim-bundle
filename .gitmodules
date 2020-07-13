@@ -106,3 +106,6 @@
 [submodule "vim-enaml"]
 	path = vim-enaml
 	url = https://github.com/johntyree/vim-enaml
+[submodule "dhcpd.vim"]
+	path = dhcpd.vim
+	url = https://github.com/vim-scripts/dhcpd.vim
