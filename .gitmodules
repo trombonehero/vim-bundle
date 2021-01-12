@@ -112,3 +112,9 @@
 [submodule "vim-toml"]
 	path = vim-toml
 	url = https://github.com/cespare/vim-toml
+[submodule "vim-mbsync"]
+	path = vim-mbsync
+	url = https://github.com/chunkhang/vim-mbsync
+[submodule "vim-jinja"]
+	path = vim-jinja
+	url = https://github.com/lepture/vim-jinja.git
