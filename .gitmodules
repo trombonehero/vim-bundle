@@ -118,3 +118,6 @@
 [submodule "vim-jinja"]
 	path = vim-jinja
 	url = https://github.com/lepture/vim-jinja.git
+[submodule "requirements.txt.vim"]
+	path = requirements.txt.vim
+	url = https://github.com/raimon49/requirements.txt.vim
