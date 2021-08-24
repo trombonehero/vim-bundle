@@ -121,3 +121,6 @@
 [submodule "requirements.txt.vim"]
 	path = requirements.txt.vim
 	url = https://github.com/raimon49/requirements.txt.vim
+[submodule "tagbar"]
+	path = tagbar
+	url = https://github.com/preservim/tagbar
