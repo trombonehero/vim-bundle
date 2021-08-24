@@ -94,9 +94,6 @@
 [submodule "vim-latex"]
 	path = vim-latex
 	url = https://github.com/vim-latex/vim-latex
-[submodule "vim-gogo"]
-	path = vim-gogo
-	url = https://github.com/idbrii/vim-gogo
 [submodule "csv.vim"]
 	path = csv.vim
 	url = https://github.com/chrisbra/csv.vim
