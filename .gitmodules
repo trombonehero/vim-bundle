@@ -115,3 +115,6 @@
 [submodule "tagbar"]
 	path = tagbar
 	url = https://github.com/preservim/tagbar
+[submodule "vim-dbml"]
+	path = vim-dbml
+	url = https://github.com/jidn/vim-dbml
