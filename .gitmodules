@@ -58,18 +58,9 @@
 [submodule "vim-fish"]
 	path = vim-fish
 	url = https://github.com/dag/vim-fish
-[submodule "vim-coffee-script"]
-	path = vim-coffee-script
-	url = https://github.com/vim-scripts/vim-coffee-script
-[submodule "marko-vim-syntax"]
-	path = marko-vim-syntax
-	url = https://github.com/Epitrochoid/marko-vim-syntax
 [submodule "vim-fontzoom"]
 	path = vim-fontzoom
 	url = https://github.com/thinca/vim-fontzoom
-[submodule "leg.vim"]
-	path = leg.vim
-	url = https://github.com/Qix-/leg.vim
 [submodule "vim-cargo"]
 	path = vim-cargo
 	url = https://github.com/timonv/vim-cargo
@@ -85,9 +76,6 @@
 [submodule "llvm.vim"]
 	path = llvm.vim
 	url = https://github.com/Superbil/llvm.vim
-[submodule "vala.vim"]
-	path = vala.vim
-	url = https://github.com/arrufat/vala.vim.git
 [submodule "vim-latex"]
 	path = vim-latex
 	url = https://github.com/vim-latex/vim-latex
