@@ -106,3 +106,21 @@
 [submodule "vim-dbml"]
 	path = vim-dbml
 	url = https://github.com/jidn/vim-dbml
+[submodule "coc.nvim"]
+	path = coc.nvim
+	url = https://github.com/neoclide/coc.nvim
+[submodule "async.vim"]
+	path = async.vim
+	url = https://github.com/prabirshrestha/async.vim
+[submodule "vim-lsp"]
+	path = vim-lsp
+	url = https://github.com/prabirshrestha/vim-lsp
+[submodule "asyncomplete.vim"]
+	path = asyncomplete.vim
+	url = https://github.com/prabirshrestha/asyncomplete.vim
+[submodule "asyncomplete-lsp.vim"]
+	path = asyncomplete-lsp.vim
+	url = https://github.com/prabirshrestha/asyncomplete-lsp.vim
+[submodule "conflict-marker.vim"]
+	path = conflict-marker.vim
+	url = https://github.com/rhysd/conflict-marker.vim
