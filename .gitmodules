@@ -124,3 +124,6 @@
 [submodule "conflict-marker.vim"]
 	path = conflict-marker.vim
 	url = https://github.com/rhysd/conflict-marker.vim
+[submodule "vim-rtags"]
+	path = vim-rtags
+	url = https://github.com/lyuts/vim-rtags
