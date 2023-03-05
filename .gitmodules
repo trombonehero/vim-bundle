@@ -46,9 +46,6 @@
 [submodule "plantuml-syntax"]
 	path = plantuml-syntax
 	url = https://github.com/aklt/plantuml-syntax
-[submodule "werewolf.vim"]
-	path = werewolf.vim
-	url = https://github.com/jonstoler/werewolf.vim
 [submodule "vim-cpp-enhanced-highlight"]
 	path = vim-cpp-enhanced-highlight
 	url = https://github.com/octol/vim-cpp-enhanced-highlight
