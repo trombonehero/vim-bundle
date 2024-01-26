@@ -13,9 +13,6 @@
 [submodule "vim-stylus"]
 	path = vim-stylus
 	url = https://github.com/wavded/vim-stylus
-[submodule "vim-go"]
-	path = vim-go
-	url = https://github.com/fatih/vim-go
 [submodule "vim-fabrique"]
 	path = vim-fabrique
 	url = https://gitlab.com/fabriquer/vim-fabrique
@@ -73,9 +70,6 @@
 [submodule "llvm.vim"]
 	path = llvm.vim
 	url = https://github.com/Superbil/llvm.vim
-[submodule "vim-latex"]
-	path = vim-latex
-	url = https://github.com/vim-latex/vim-latex
 [submodule "csv.vim"]
 	path = csv.vim
 	url = https://github.com/chrisbra/csv.vim
@@ -103,15 +97,9 @@
 [submodule "vim-dbml"]
 	path = vim-dbml
 	url = https://github.com/jidn/vim-dbml
-[submodule "coc.nvim"]
-	path = coc.nvim
-	url = https://github.com/neoclide/coc.nvim
 [submodule "async.vim"]
 	path = async.vim
 	url = https://github.com/prabirshrestha/async.vim
-[submodule "vim-lsp"]
-	path = vim-lsp
-	url = https://github.com/prabirshrestha/vim-lsp
 [submodule "asyncomplete.vim"]
 	path = asyncomplete.vim
 	url = https://github.com/prabirshrestha/asyncomplete.vim
